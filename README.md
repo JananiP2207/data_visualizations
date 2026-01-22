@@ -1,3 +1,3 @@
-# data_visualizations
+# Data_visualizations on Delhi Metro Network
 <img width="796" height="820" alt="image" src="https://github.com/user-attachments/assets/03967adf-d90e-40c4-9efd-a82d62aaa87c" />
 This image focuses on the visualization and analysis of the Delhi Metro network, representing metro stations and lines in a clear, color-coded graphical format. The goal is to help users understand station connectivity, interchange points, and route structure across the Delhi Metro system.The visualization highlights major metro lines, interchange stations such as Kashmere Gate, Rajiv Chowk, and Inderlok, and demonstrates how different routes are interconnected.
